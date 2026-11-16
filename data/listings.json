@@ -1,0 +1,6482 @@
+[
+ {
+  "id": 1,
+  "reference": "AT-101",
+  "title": "Piso luminoso junto al mercado",
+  "description": "Piso luminoso junto al mercado, de 92 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 289000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 92,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 52214,
+  "_geo": {
+   "lat": 39.4611,
+   "lng": -0.3758
+  }
+ },
+ {
+  "id": 2,
+  "reference": "AT-102",
+  "title": "Ático con terraza",
+  "description": "Ático con terraza, de 78 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 415000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 78,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 33568,
+  "_geo": {
+   "lat": 39.4766,
+   "lng": -0.3838
+  }
+ },
+ {
+  "id": 3,
+  "reference": "AT-103",
+  "title": "Piso para reformar",
+  "description": "Piso para reformar, de 85 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 168000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 85,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 12390,
+  "_geo": {
+   "lat": 39.4837,
+   "lng": -0.3565
+  }
+ },
+ {
+  "id": 4,
+  "reference": "AT-104",
+  "title": "Casa de pueblo con patio",
+  "description": "Casa de pueblo con patio, de 140 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Malvarrosa",
+  "price": 352000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 140,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-104.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 79212,
+  "_geo": {
+   "lat": 39.4791,
+   "lng": -0.3369
+  }
+ },
+ {
+  "id": 5,
+  "reference": "AT-105",
+  "title": "Estudio reformado",
+  "description": "Estudio reformado, de 45 m², con 1 dormitorio y 1 baño.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 850,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 45,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-105.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 46047,
+  "_geo": {
+   "lat": 39.4612,
+   "lng": -0.371
+  }
+ },
+ {
+  "id": 6,
+  "reference": "AT-106",
+  "title": "Piso familiar con garaje",
+  "description": "Piso familiar con garaje, de 110 m², con 3 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 1250,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 110,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 58976,
+  "_geo": {
+   "lat": 39.4833,
+   "lng": -0.3993
+  }
+ },
+ {
+  "id": 7,
+  "reference": "AT-107",
+  "title": "Local a pie de calle",
+  "description": "Local a pie de calle, de 120 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Patraix",
+  "price": 1100,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 120,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 8406,
+  "_geo": {
+   "lat": 39.4628,
+   "lng": -0.3992
+  }
+ },
+ {
+  "id": 8,
+  "reference": "AT-108",
+  "title": "Piso exterior de cuatro dormitorios",
+  "description": "Piso exterior de cuatro dormitorios, de 124 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 325000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 124,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 65976,
+  "_geo": {
+   "lat": 39.4848,
+   "lng": -0.4001
+  }
+ },
+ {
+  "id": 9,
+  "reference": "AT-109",
+  "title": "Oficina con vistas",
+  "description": "Oficina con vistas, de 95 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "office",
+  "zone": "El Carmen",
+  "price": 1450,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 95,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 38440,
+  "_geo": {
+   "lat": 39.4754,
+   "lng": -0.3805
+  }
+ },
+ {
+  "id": 10,
+  "reference": "AT-110",
+  "title": "Bajo con jardín",
+  "description": "Bajo con jardín, de 88 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 239000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 88,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 3603,
+  "_geo": {
+   "lat": 39.4599,
+   "lng": -0.3966
+  }
+ },
+ {
+  "id": 11,
+  "reference": "MAR-2011",
+  "title": "Bajo con patio en Cabanyal",
+  "description": "Bajo con patio en Cabanyal, de 68 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 237000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 66736,
+  "_geo": {
+   "lat": 39.4655,
+   "lng": -0.3328
+  }
+ },
+ {
+  "id": 12,
+  "reference": "ATA-2012",
+  "title": "Local comercial en El Carmen",
+  "description": "Local comercial en El Carmen, de 41 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "El Carmen",
+  "price": 151000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 41,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 51997,
+  "_geo": {
+   "lat": 39.4801,
+   "lng": -0.3832
+  }
+ },
+ {
+  "id": 13,
+  "reference": "FAN-2013",
+  "title": "Bajo con patio en Ruzafa",
+  "description": "Bajo con patio en Ruzafa, de 56 m², con 1 dormitorio y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 297000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 56,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 35283,
+  "_geo": {
+   "lat": 39.4607,
+   "lng": -0.3762
+  }
+ },
+ {
+  "id": 14,
+  "reference": "BRI-2014",
+  "title": "Piso de 3 dormitorios en Extramurs",
+  "description": "Piso de 3 dormitorios en Extramurs, de 95 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 275000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 95,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 38832,
+  "_geo": {
+   "lat": 39.4671,
+   "lng": -0.3859
+  }
+ },
+ {
+  "id": 15,
+  "reference": "MAR-2015",
+  "title": "Local a pie de calle en Ruzafa",
+  "description": "Local a pie de calle en Ruzafa, de 88 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Ruzafa",
+  "price": 291000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 88,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 9919,
+  "_geo": {
+   "lat": 39.4616,
+   "lng": -0.3715
+  }
+ },
+ {
+  "id": 16,
+  "reference": "ATA-2016",
+  "title": "Piso reformado en Extramurs",
+  "description": "Piso reformado en Extramurs, de 72 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 270000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 72,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 22778,
+  "_geo": {
+   "lat": 39.4705,
+   "lng": -0.3845
+  }
+ },
+ {
+  "id": 17,
+  "reference": "FAN-2017",
+  "title": "Piso exterior en El Carmen",
+  "description": "Piso exterior en El Carmen, de 82 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1500,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 82,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 23017,
+  "_geo": {
+   "lat": 39.4797,
+   "lng": -0.3821
+  }
+ },
+ {
+  "id": 18,
+  "reference": "BRI-2018",
+  "title": "Local comercial en El Carmen",
+  "description": "Local comercial en El Carmen, de 209 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "El Carmen",
+  "price": 741000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 209,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 541,
+  "_geo": {
+   "lat": 39.4812,
+   "lng": -0.3806
+  }
+ },
+ {
+  "id": 19,
+  "reference": "MAR-2019",
+  "title": "Piso de 3 dormitorios en Benicalap",
+  "description": "Piso de 3 dormitorios en Benicalap, de 100 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 276000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 100,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 28345,
+  "_geo": {
+   "lat": 39.4935,
+   "lng": -0.3909
+  }
+ },
+ {
+  "id": 20,
+  "reference": "ATA-2020",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 88 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 320000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 88,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 74343,
+  "_geo": {
+   "lat": 39.4716,
+   "lng": -0.3909
+  }
+ },
+ {
+  "id": 21,
+  "reference": "FAN-2021",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 118 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 386000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 118,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 85020,
+  "_geo": {
+   "lat": 39.4677,
+   "lng": -0.3887
+  }
+ },
+ {
+  "id": 22,
+  "reference": "BRI-2022",
+  "title": "Piso reformado en Benicalap",
+  "description": "Piso reformado en Benicalap, de 69 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 148000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 69,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 54479,
+  "_geo": {
+   "lat": 39.4982,
+   "lng": -0.389
+  }
+ },
+ {
+  "id": 23,
+  "reference": "MAR-2023",
+  "title": "Piso de 3 dormitorios en Cabanyal",
+  "description": "Piso de 3 dormitorios en Cabanyal, de 93 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 1600,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 93,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 29442,
+  "_geo": {
+   "lat": 39.4693,
+   "lng": -0.3307
+  }
+ },
+ {
+  "id": 24,
+  "reference": "ATA-2024",
+  "title": "Piso reformado en El Carmen",
+  "description": "Piso reformado en El Carmen, de 129 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 652000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 129,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 25969,
+  "_geo": {
+   "lat": 39.4755,
+   "lng": -0.3795
+  }
+ },
+ {
+  "id": 25,
+  "reference": "FAN-2025",
+  "title": "Oficina en Benicalap",
+  "description": "Oficina en Benicalap, de 229 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Benicalap",
+  "price": 423000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 229,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 42642,
+  "_geo": {
+   "lat": 39.4984,
+   "lng": -0.3909
+  }
+ },
+ {
+  "id": 26,
+  "reference": "BRI-2026",
+  "title": "Piso reformado en Extramurs",
+  "description": "Piso reformado en Extramurs, de 90 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 360000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 90,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 73857,
+  "_geo": {
+   "lat": 39.4669,
+   "lng": -0.3859
+  }
+ },
+ {
+  "id": 27,
+  "reference": "MAR-2027",
+  "title": "Piso de 3 dormitorios en Cabanyal",
+  "description": "Piso de 3 dormitorios en Cabanyal, de 101 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 1925,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 101,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 67981,
+  "_geo": {
+   "lat": 39.4678,
+   "lng": -0.3355
+  }
+ },
+ {
+  "id": 28,
+  "reference": "ATA-2028",
+  "title": "Piso reformado en Patraix",
+  "description": "Piso reformado en Patraix, de 105 m², con 3 dormitorios y 2 baños. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 274000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 105,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-01.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 8511,
+  "_geo": {
+   "lat": 39.4586,
+   "lng": -0.3933
+  }
+ },
+ {
+  "id": 29,
+  "reference": "FAN-2029",
+  "title": "Piso de 2 dormitorios en Ruzafa",
+  "description": "Piso de 2 dormitorios en Ruzafa, de 79 m², con 2 dormitorios y 1 baño.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 1075,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 79,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 26392,
+  "_geo": {
+   "lat": 39.4651,
+   "lng": -0.374
+  }
+ },
+ {
+  "id": 30,
+  "reference": "BRI-2030",
+  "title": "Piso de 2 dormitorios en Malvarrosa",
+  "description": "Piso de 2 dormitorios en Malvarrosa, de 92 m², con 2 dormitorios y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 354000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 92,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 23041,
+  "_geo": {
+   "lat": 39.4771,
+   "lng": -0.3326
+  }
+ },
+ {
+  "id": 31,
+  "reference": "MAR-2031",
+  "title": "Piso reformado en Benimaclet",
+  "description": "Piso reformado en Benimaclet, de 111 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 349000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 111,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 40297,
+  "_geo": {
+   "lat": 39.4882,
+   "lng": -0.3596
+  }
+ },
+ {
+  "id": 32,
+  "reference": "ATA-2032",
+  "title": "Casa de pueblo en Campanar",
+  "description": "Casa de pueblo en Campanar, de 170 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "rent",
+  "type": "house",
+  "zone": "Campanar",
+  "price": 2025,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 170,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-104.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 20044,
+  "_geo": {
+   "lat": 39.4843,
+   "lng": -0.3957
+  }
+ },
+ {
+  "id": 33,
+  "reference": "FAN-2033",
+  "title": "Piso exterior en Benicalap",
+  "description": "Piso exterior en Benicalap, de 90 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 1225,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 90,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 70122,
+  "_geo": {
+   "lat": 39.4969,
+   "lng": -0.3929
+  }
+ },
+ {
+  "id": 34,
+  "reference": "BRI-2034",
+  "title": "Local comercial en Algirós",
+  "description": "Local comercial en Algirós, de 184 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Algirós",
+  "price": 368000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 184,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 44351,
+  "_geo": {
+   "lat": 39.4757,
+   "lng": -0.3514
+  }
+ },
+ {
+  "id": 35,
+  "reference": "MAR-2035",
+  "title": "Piso exterior en Campanar",
+  "description": "Piso exterior en Campanar, de 76 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 253000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 76,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 86124,
+  "_geo": {
+   "lat": 39.4843,
+   "lng": -0.394
+  }
+ },
+ {
+  "id": 36,
+  "reference": "ATA-2036",
+  "title": "Piso reformado en Campanar",
+  "description": "Piso reformado en Campanar, de 76 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 271000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 76,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 35788,
+  "_geo": {
+   "lat": 39.4836,
+   "lng": -0.3954
+  }
+ },
+ {
+  "id": 37,
+  "reference": "FAN-2037",
+  "title": "Piso reformado en El Carmen",
+  "description": "Piso reformado en El Carmen, de 91 m², con 2 dormitorios y 1 baño. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 406000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 91,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 49121,
+  "_geo": {
+   "lat": 39.4798,
+   "lng": -0.3805
+  }
+ },
+ {
+  "id": 38,
+  "reference": "BRI-2038",
+  "title": "Local comercial en Ruzafa",
+  "description": "Local comercial en Ruzafa, de 145 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Ruzafa",
+  "price": 1700,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 145,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 71083,
+  "_geo": {
+   "lat": 39.4586,
+   "lng": -0.3747
+  }
+ },
+ {
+  "id": 39,
+  "reference": "MAR-2039",
+  "title": "Piso de 2 dormitorios en El Carmen",
+  "description": "Piso de 2 dormitorios en El Carmen, de 77 m², con 2 dormitorios y 1 baño.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1250,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 77,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 69982,
+  "_geo": {
+   "lat": 39.4772,
+   "lng": -0.3834
+  }
+ },
+ {
+  "id": 40,
+  "reference": "ATA-2040",
+  "title": "Piso exterior en Ruzafa",
+  "description": "Piso exterior en Ruzafa, de 114 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 558000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 114,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 3071,
+  "_geo": {
+   "lat": 39.4654,
+   "lng": -0.3742
+  }
+ },
+ {
+  "id": 41,
+  "reference": "FAN-2041",
+  "title": "Piso reformado en El Carmen",
+  "description": "Piso reformado en El Carmen, de 65 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 270000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 65,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 42606,
+  "_geo": {
+   "lat": 39.4758,
+   "lng": -0.3782
+  }
+ },
+ {
+  "id": 42,
+  "reference": "BRI-2042",
+  "title": "Piso de 2 dormitorios en Campanar",
+  "description": "Piso de 2 dormitorios en Campanar, de 85 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 337000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 85,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 62742,
+  "_geo": {
+   "lat": 39.4817,
+   "lng": -0.3977
+  }
+ },
+ {
+  "id": 43,
+  "reference": "MAR-2043",
+  "title": "Oficina en Benicalap",
+  "description": "Oficina en Benicalap, de 239 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Benicalap",
+  "price": 371000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 239,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 68453,
+  "_geo": {
+   "lat": 39.4926,
+   "lng": -0.3925
+  }
+ },
+ {
+  "id": 44,
+  "reference": "ATA-2044",
+  "title": "Piso exterior en Algirós",
+  "description": "Piso exterior en Algirós, de 115 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 342000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 115,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 72308,
+  "_geo": {
+   "lat": 39.471,
+   "lng": -0.3526
+  }
+ },
+ {
+  "id": 45,
+  "reference": "FAN-2045",
+  "title": "Piso reformado en Patraix",
+  "description": "Piso reformado en Patraix, de 106 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1200,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 106,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 10535,
+  "_geo": {
+   "lat": 39.4587,
+   "lng": -0.3987
+  }
+ },
+ {
+  "id": 46,
+  "reference": "BRI-2046",
+  "title": "Ático con terraza en Ruzafa",
+  "description": "Ático con terraza en Ruzafa, de 74 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 373000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 74,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 60799,
+  "_geo": {
+   "lat": 39.4634,
+   "lng": -0.373
+  }
+ },
+ {
+  "id": 47,
+  "reference": "MAR-2047",
+  "title": "Piso reformado en Benimaclet",
+  "description": "Piso reformado en Benimaclet, de 92 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 236000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 92,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 64417,
+  "_geo": {
+   "lat": 39.4885,
+   "lng": -0.3611
+  }
+ },
+ {
+  "id": 48,
+  "reference": "ATA-2048",
+  "title": "Piso de 3 dormitorios en Patraix",
+  "description": "Piso de 3 dormitorios en Patraix, de 90 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1025,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 90,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 40179,
+  "_geo": {
+   "lat": 39.4574,
+   "lng": -0.3986
+  }
+ },
+ {
+  "id": 49,
+  "reference": "FAN-2049",
+  "title": "Piso reformado en Ruzafa",
+  "description": "Piso reformado en Ruzafa, de 86 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 417000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 86,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 36264,
+  "_geo": {
+   "lat": 39.4649,
+   "lng": -0.376
+  }
+ },
+ {
+  "id": 50,
+  "reference": "BRI-2050",
+  "title": "Ático con terraza en Cabanyal",
+  "description": "Ático con terraza en Cabanyal, de 90 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 294000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 90,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 81251,
+  "_geo": {
+   "lat": 39.4722,
+   "lng": -0.3322
+  }
+ },
+ {
+  "id": 51,
+  "reference": "MAR-2051",
+  "title": "Oficina en Benimaclet",
+  "description": "Oficina en Benimaclet, de 60 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "office",
+  "zone": "Benimaclet",
+  "price": 575,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 60,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 33372,
+  "_geo": {
+   "lat": 39.4871,
+   "lng": -0.3586
+  }
+ },
+ {
+  "id": 52,
+  "reference": "ATA-2052",
+  "title": "Bajo con patio en Patraix",
+  "description": "Bajo con patio en Patraix, de 73 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1050,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 73,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 5469,
+  "_geo": {
+   "lat": 39.457,
+   "lng": -0.398
+  }
+ },
+ {
+  "id": 53,
+  "reference": "FAN-2053",
+  "title": "Piso reformado en Patraix",
+  "description": "Piso reformado en Patraix, de 68 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 850,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 40789,
+  "_geo": {
+   "lat": 39.4616,
+   "lng": -0.3974
+  }
+ },
+ {
+  "id": 54,
+  "reference": "BRI-2054",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 123 m², con 4 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 460000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 123,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 14020,
+  "_geo": {
+   "lat": 39.476,
+   "lng": -0.3335
+  }
+ },
+ {
+  "id": 55,
+  "reference": "MAR-2055",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 107 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 407000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 107,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 25334,
+  "_geo": {
+   "lat": 39.4683,
+   "lng": -0.3893
+  }
+ },
+ {
+  "id": 56,
+  "reference": "ATA-2056",
+  "title": "Piso reformado en Algirós",
+  "description": "Piso reformado en Algirós, de 129 m², con 4 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 2025,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 129,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 1951,
+  "_geo": {
+   "lat": 39.4722,
+   "lng": -0.3529
+  }
+ },
+ {
+  "id": 57,
+  "reference": "FAN-2057",
+  "title": "Ático con terraza en Ruzafa",
+  "description": "Ático con terraza en Ruzafa, de 128 m², con 4 dormitorios y 2 baños. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 2775,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 128,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 36303,
+  "_geo": {
+   "lat": 39.4599,
+   "lng": -0.3705
+  }
+ },
+ {
+  "id": 58,
+  "reference": "BRI-2058",
+  "title": "Ático con terraza en Patraix",
+  "description": "Ático con terraza en Patraix, de 78 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1100,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 78,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 63388,
+  "_geo": {
+   "lat": 39.4582,
+   "lng": -0.3927
+  }
+ },
+ {
+  "id": 59,
+  "reference": "MAR-2059",
+  "title": "Local comercial en Cabanyal",
+  "description": "Local comercial en Cabanyal, de 204 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Cabanyal",
+  "price": 503000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 204,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 82928,
+  "_geo": {
+   "lat": 39.4658,
+   "lng": -0.3332
+  }
+ },
+ {
+  "id": 60,
+  "reference": "ATA-2060",
+  "title": "Piso de 4 dormitorios en Algirós",
+  "description": "Piso de 4 dormitorios en Algirós, de 123 m², con 4 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 413000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 123,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 70326,
+  "_geo": {
+   "lat": 39.4729,
+   "lng": -0.3506
+  }
+ },
+ {
+  "id": 61,
+  "reference": "FAN-2061",
+  "title": "Oficina luminosa en Benicalap",
+  "description": "Oficina luminosa en Benicalap, de 126 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Benicalap",
+  "price": 211000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 126,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 11012,
+  "_geo": {
+   "lat": 39.4972,
+   "lng": -0.3918
+  }
+ },
+ {
+  "id": 62,
+  "reference": "BRI-2062",
+  "title": "Bajo con patio en Extramurs",
+  "description": "Bajo con patio en Extramurs, de 58 m², con 1 dormitorio y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 213000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 58,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 33494,
+  "_geo": {
+   "lat": 39.4671,
+   "lng": -0.3869
+  }
+ },
+ {
+  "id": 63,
+  "reference": "MAR-2063",
+  "title": "Local comercial en Patraix",
+  "description": "Local comercial en Patraix, de 66 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Patraix",
+  "price": 600,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 66,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 32529,
+  "_geo": {
+   "lat": 39.4589,
+   "lng": -0.3952
+  }
+ },
+ {
+  "id": 64,
+  "reference": "ATA-2064",
+  "title": "Piso de 2 dormitorios en Patraix",
+  "description": "Piso de 2 dormitorios en Patraix, de 91 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 307000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 91,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 37661,
+  "_geo": {
+   "lat": 39.463,
+   "lng": -0.3986
+  }
+ },
+ {
+  "id": 65,
+  "reference": "FAN-2065",
+  "title": "Piso de 3 dormitorios en Ruzafa",
+  "description": "Piso de 3 dormitorios en Ruzafa, de 105 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 491000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 105,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 24438,
+  "_geo": {
+   "lat": 39.4593,
+   "lng": -0.3741
+  }
+ },
+ {
+  "id": 66,
+  "reference": "BRI-2066",
+  "title": "Oficina en Ruzafa",
+  "description": "Oficina en Ruzafa, de 201 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Ruzafa",
+  "price": 627000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 201,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 67691,
+  "_geo": {
+   "lat": 39.4631,
+   "lng": -0.3761
+  }
+ },
+ {
+  "id": 67,
+  "reference": "MAR-2067",
+  "title": "Bajo con patio en Benimaclet",
+  "description": "Bajo con patio en Benimaclet, de 130 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 1700,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 130,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 17661,
+  "_geo": {
+   "lat": 39.4882,
+   "lng": -0.3575
+  }
+ },
+ {
+  "id": 68,
+  "reference": "ATA-2068",
+  "title": "Local a pie de calle en Extramurs",
+  "description": "Local a pie de calle en Extramurs, de 163 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Extramurs",
+  "price": 353000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 163,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 39005,
+  "_geo": {
+   "lat": 39.4684,
+   "lng": -0.3904
+  }
+ },
+ {
+  "id": 69,
+  "reference": "FAN-2069",
+  "title": "Piso reformado en Ruzafa",
+  "description": "Piso reformado en Ruzafa, de 100 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 494000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 100,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 37979,
+  "_geo": {
+   "lat": 39.46,
+   "lng": -0.3715
+  }
+ },
+ {
+  "id": 70,
+  "reference": "BRI-2070",
+  "title": "Piso reformado en El Carmen",
+  "description": "Piso reformado en El Carmen, de 109 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1900,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 109,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 29508,
+  "_geo": {
+   "lat": 39.4783,
+   "lng": -0.3792
+  }
+ },
+ {
+  "id": 71,
+  "reference": "MAR-2071",
+  "title": "Local a pie de calle en Benimaclet",
+  "description": "Local a pie de calle en Benimaclet, de 131 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Benimaclet",
+  "price": 1225,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 131,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 48066,
+  "_geo": {
+   "lat": 39.485,
+   "lng": -0.3595
+  }
+ },
+ {
+  "id": 72,
+  "reference": "ATA-2072",
+  "title": "Piso de 2 dormitorios en Extramurs",
+  "description": "Piso de 2 dormitorios en Extramurs, de 68 m², con 2 dormitorios y 1 baño. Tiene plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 1050,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 49099,
+  "_geo": {
+   "lat": 39.4676,
+   "lng": -0.3914
+  }
+ },
+ {
+  "id": 73,
+  "reference": "FAN-2073",
+  "title": "Piso de 3 dormitorios en Benicalap",
+  "description": "Piso de 3 dormitorios en Benicalap, de 112 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 1550,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 112,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 65080,
+  "_geo": {
+   "lat": 39.4995,
+   "lng": -0.3912
+  }
+ },
+ {
+  "id": 74,
+  "reference": "BRI-2074",
+  "title": "Piso reformado en Campanar",
+  "description": "Piso reformado en Campanar, de 80 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 264000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 80,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 38032,
+  "_geo": {
+   "lat": 39.4848,
+   "lng": -0.3998
+  }
+ },
+ {
+  "id": 75,
+  "reference": "MAR-2075",
+  "title": "Piso de 2 dormitorios en Benimaclet",
+  "description": "Piso de 2 dormitorios en Benimaclet, de 77 m², con 2 dormitorios y 1 baño. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 228000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 77,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 23494,
+  "_geo": {
+   "lat": 39.4835,
+   "lng": -0.3614
+  }
+ },
+ {
+  "id": 76,
+  "reference": "ATA-2076",
+  "title": "Ático con terraza en Cabanyal",
+  "description": "Ático con terraza en Cabanyal, de 67 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 236000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 67,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 16436,
+  "_geo": {
+   "lat": 39.465,
+   "lng": -0.3352
+  }
+ },
+ {
+  "id": 77,
+  "reference": "FAN-2077",
+  "title": "Casa con jardín en Campanar",
+  "description": "Casa con jardín en Campanar, de 153 m², con 3 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Campanar",
+  "price": 492000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 153,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-05.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 21580,
+  "_geo": {
+   "lat": 39.485,
+   "lng": -0.3942
+  }
+ },
+ {
+  "id": 78,
+  "reference": "BRI-2078",
+  "title": "Casa de pueblo en Benicalap",
+  "description": "Casa de pueblo en Benicalap, de 171 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "rent",
+  "type": "house",
+  "zone": "Benicalap",
+  "price": 2325,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 171,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-05.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 3361,
+  "_geo": {
+   "lat": 39.4969,
+   "lng": -0.3939
+  }
+ },
+ {
+  "id": 79,
+  "reference": "MAR-2079",
+  "title": "Ático con terraza en Ruzafa",
+  "description": "Ático con terraza en Ruzafa, de 79 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 433000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 79,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 63293,
+  "_geo": {
+   "lat": 39.4647,
+   "lng": -0.3709
+  }
+ },
+ {
+  "id": 80,
+  "reference": "ATA-2080",
+  "title": "Estudio en Patraix",
+  "description": "Estudio en Patraix, de 54 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 133000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 54,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-10.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 20840,
+  "_geo": {
+   "lat": 39.458,
+   "lng": -0.3941
+  }
+ },
+ {
+  "id": 81,
+  "reference": "FAN-2081",
+  "title": "Ático con terraza en Cabanyal",
+  "description": "Ático con terraza en Cabanyal, de 122 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 1725,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 122,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 41253,
+  "_geo": {
+   "lat": 39.469,
+   "lng": -0.333
+  }
+ },
+ {
+  "id": 82,
+  "reference": "BRI-2082",
+  "title": "Piso reformado en Benicalap",
+  "description": "Piso reformado en Benicalap, de 55 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 114000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 55,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 80282,
+  "_geo": {
+   "lat": 39.4929,
+   "lng": -0.3892
+  }
+ },
+ {
+  "id": 83,
+  "reference": "MAR-2083",
+  "title": "Estudio en Cabanyal",
+  "description": "Estudio en Cabanyal, de 51 m², con 1 dormitorio y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 199000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 51,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-105.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 1855,
+  "_geo": {
+   "lat": 39.4713,
+   "lng": -0.3361
+  }
+ },
+ {
+  "id": 84,
+  "reference": "ATA-2084",
+  "title": "Piso de 2 dormitorios en Ruzafa",
+  "description": "Piso de 2 dormitorios en Ruzafa, de 68 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 243000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 22773,
+  "_geo": {
+   "lat": 39.4608,
+   "lng": -0.3761
+  }
+ },
+ {
+  "id": 85,
+  "reference": "FAN-2085",
+  "title": "Piso exterior en Algirós",
+  "description": "Piso exterior en Algirós, de 73 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 252000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 73,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 67915,
+  "_geo": {
+   "lat": 39.4755,
+   "lng": -0.3516
+  }
+ },
+ {
+  "id": 86,
+  "reference": "BRI-2086",
+  "title": "Casa de pueblo en Patraix",
+  "description": "Casa de pueblo en Patraix, de 160 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Patraix",
+  "price": 462000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 160,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-11.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 73941,
+  "_geo": {
+   "lat": 39.4575,
+   "lng": -0.397
+  }
+ },
+ {
+  "id": 87,
+  "reference": "MAR-2087",
+  "title": "Local comercial en Cabanyal",
+  "description": "Local comercial en Cabanyal, de 200 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Cabanyal",
+  "price": 498000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 200,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 41716,
+  "_geo": {
+   "lat": 39.4654,
+   "lng": -0.3331
+  }
+ },
+ {
+  "id": 88,
+  "reference": "ATA-2088",
+  "title": "Bajo con patio en Benimaclet",
+  "description": "Bajo con patio en Benimaclet, de 111 m², con 3 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 366000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 111,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 63678,
+  "_geo": {
+   "lat": 39.4856,
+   "lng": -0.3579
+  }
+ },
+ {
+  "id": 89,
+  "reference": "FAN-2089",
+  "title": "Piso de 3 dormitorios en Algirós",
+  "description": "Piso de 3 dormitorios en Algirós, de 96 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 286000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 96,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 75082,
+  "_geo": {
+   "lat": 39.4729,
+   "lng": -0.3531
+  }
+ },
+ {
+  "id": 90,
+  "reference": "BRI-2090",
+  "title": "Ático con terraza en Algirós",
+  "description": "Ático con terraza en Algirós, de 90 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 1050,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 90,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 68959,
+  "_geo": {
+   "lat": 39.4733,
+   "lng": -0.3571
+  }
+ },
+ {
+  "id": 91,
+  "reference": "MAR-2091",
+  "title": "Ático con terraza en Ruzafa",
+  "description": "Ático con terraza en Ruzafa, de 71 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 358000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 71,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 41620,
+  "_geo": {
+   "lat": 39.4588,
+   "lng": -0.3732
+  }
+ },
+ {
+  "id": 92,
+  "reference": "ATA-2092",
+  "title": "Piso de 2 dormitorios en Algirós",
+  "description": "Piso de 2 dormitorios en Algirós, de 69 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 193000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 69,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 65931,
+  "_geo": {
+   "lat": 39.4715,
+   "lng": -0.3531
+  }
+ },
+ {
+  "id": 93,
+  "reference": "FAN-2093",
+  "title": "Ático con terraza en Malvarrosa",
+  "description": "Ático con terraza en Malvarrosa, de 110 m², con 4 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 478000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 110,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 72784,
+  "_geo": {
+   "lat": 39.4757,
+   "lng": -0.3328
+  }
+ },
+ {
+  "id": 94,
+  "reference": "BRI-2094",
+  "title": "Casa de pueblo en Extramurs",
+  "description": "Casa de pueblo en Extramurs, de 193 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Extramurs",
+  "price": 716000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 193,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-104.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 64568,
+  "_geo": {
+   "lat": 39.4729,
+   "lng": -0.3907
+  }
+ },
+ {
+  "id": 95,
+  "reference": "MAR-2095",
+  "title": "Piso reformado en Extramurs",
+  "description": "Piso reformado en Extramurs, de 88 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 356000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 88,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 33200,
+  "_geo": {
+   "lat": 39.4722,
+   "lng": -0.391
+  }
+ },
+ {
+  "id": 96,
+  "reference": "ATA-2096",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 131 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 477000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 131,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 84643,
+  "_geo": {
+   "lat": 39.4783,
+   "lng": -0.3348
+  }
+ },
+ {
+  "id": 97,
+  "reference": "FAN-2097",
+  "title": "Piso de 4 dormitorios en Ruzafa",
+  "description": "Piso de 4 dormitorios en Ruzafa, de 136 m², con 4 dormitorios y 2 baños. Tiene plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 600000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 136,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 37157,
+  "_geo": {
+   "lat": 39.4595,
+   "lng": -0.3727
+  }
+ },
+ {
+  "id": 98,
+  "reference": "BRI-2098",
+  "title": "Piso de 3 dormitorios en Cabanyal",
+  "description": "Piso de 3 dormitorios en Cabanyal, de 101 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 375000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 101,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 25667,
+  "_geo": {
+   "lat": 39.4689,
+   "lng": -0.3344
+  }
+ },
+ {
+  "id": 99,
+  "reference": "MAR-2099",
+  "title": "Piso de 2 dormitorios en El Carmen",
+  "description": "Piso de 2 dormitorios en El Carmen, de 69 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1325,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 69,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 17076,
+  "_geo": {
+   "lat": 39.4801,
+   "lng": -0.3791
+  }
+ },
+ {
+  "id": 100,
+  "reference": "ATA-2100",
+  "title": "Piso exterior en Algirós",
+  "description": "Piso exterior en Algirós, de 98 m², con 3 dormitorios y 2 baños.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 1225,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 98,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 39757,
+  "_geo": {
+   "lat": 39.4744,
+   "lng": -0.3561
+  }
+ },
+ {
+  "id": 101,
+  "reference": "FAN-2101",
+  "title": "Ático con terraza en Benicalap",
+  "description": "Ático con terraza en Benicalap, de 105 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 323000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 105,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 45091,
+  "_geo": {
+   "lat": 39.4927,
+   "lng": -0.3915
+  }
+ },
+ {
+  "id": 102,
+  "reference": "BRI-2102",
+  "title": "Piso de 2 dormitorios en Cabanyal",
+  "description": "Piso de 2 dormitorios en Cabanyal, de 73 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 210000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 73,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 9524,
+  "_geo": {
+   "lat": 39.4684,
+   "lng": -0.3341
+  }
+ },
+ {
+  "id": 103,
+  "reference": "MAR-2103",
+  "title": "Piso exterior en Benimaclet",
+  "description": "Piso exterior en Benimaclet, de 98 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 311000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 98,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 12248,
+  "_geo": {
+   "lat": 39.4887,
+   "lng": -0.356
+  }
+ },
+ {
+  "id": 104,
+  "reference": "ATA-2104",
+  "title": "Piso reformado en Patraix",
+  "description": "Piso reformado en Patraix, de 87 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1175,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 87,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 56782,
+  "_geo": {
+   "lat": 39.4632,
+   "lng": -0.3976
+  }
+ },
+ {
+  "id": 105,
+  "reference": "FAN-2105",
+  "title": "Local comercial en Cabanyal",
+  "description": "Local comercial en Cabanyal, de 137 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Cabanyal",
+  "price": 1675,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 137,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 33052,
+  "_geo": {
+   "lat": 39.4705,
+   "lng": -0.3301
+  }
+ },
+ {
+  "id": 106,
+  "reference": "BRI-2106",
+  "title": "Piso exterior en Campanar",
+  "description": "Piso exterior en Campanar, de 111 m², con 3 dormitorios y 2 baños. Tiene plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 412000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 111,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 80318,
+  "_geo": {
+   "lat": 39.4776,
+   "lng": -0.3961
+  }
+ },
+ {
+  "id": 107,
+  "reference": "MAR-2107",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 79 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 1300,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 79,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 69456,
+  "_geo": {
+   "lat": 39.4662,
+   "lng": -0.3858
+  }
+ },
+ {
+  "id": 108,
+  "reference": "ATA-2108",
+  "title": "Local a pie de calle en Cabanyal",
+  "description": "Local a pie de calle en Cabanyal, de 89 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Cabanyal",
+  "price": 1050,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 89,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 54902,
+  "_geo": {
+   "lat": 39.4663,
+   "lng": -0.3334
+  }
+ },
+ {
+  "id": 109,
+  "reference": "FAN-2109",
+  "title": "Oficina en Algirós",
+  "description": "Oficina en Algirós, de 67 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Algirós",
+  "price": 149000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 67,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 1868,
+  "_geo": {
+   "lat": 39.4742,
+   "lng": -0.3574
+  }
+ },
+ {
+  "id": 110,
+  "reference": "BRI-2110",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 80 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 309000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 80,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 59432,
+  "_geo": {
+   "lat": 39.4819,
+   "lng": -0.3346
+  }
+ },
+ {
+  "id": 111,
+  "reference": "MAR-2111",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 74 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 320000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 74,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 48322,
+  "_geo": {
+   "lat": 39.4679,
+   "lng": -0.3856
+  }
+ },
+ {
+  "id": 112,
+  "reference": "ATA-2112",
+  "title": "Piso de 4 dormitorios en Benimaclet",
+  "description": "Piso de 4 dormitorios en Benimaclet, de 133 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 450000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 133,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 61463,
+  "_geo": {
+   "lat": 39.4872,
+   "lng": -0.3575
+  }
+ },
+ {
+  "id": 113,
+  "reference": "FAN-2113",
+  "title": "Local comercial en Benicalap",
+  "description": "Local comercial en Benicalap, de 55 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Benicalap",
+  "price": 99000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 55,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 68795,
+  "_geo": {
+   "lat": 39.4916,
+   "lng": -0.3914
+  }
+ },
+ {
+  "id": 114,
+  "reference": "BRI-2114",
+  "title": "Piso de 2 dormitorios en Benicalap",
+  "description": "Piso de 2 dormitorios en Benicalap, de 67 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 182000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 67,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 83138,
+  "_geo": {
+   "lat": 39.494,
+   "lng": -0.3907
+  }
+ },
+ {
+  "id": 115,
+  "reference": "MAR-2115",
+  "title": "Piso de 2 dormitorios en Patraix",
+  "description": "Piso de 2 dormitorios en Patraix, de 82 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1200,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 82,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-01.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 3933,
+  "_geo": {
+   "lat": 39.4597,
+   "lng": -0.3975
+  }
+ },
+ {
+  "id": 116,
+  "reference": "ATA-2116",
+  "title": "Estudio en Benimaclet",
+  "description": "Estudio en Benimaclet, de 46 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 600,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 46,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-105.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 54645,
+  "_geo": {
+   "lat": 39.4849,
+   "lng": -0.3615
+  }
+ },
+ {
+  "id": 117,
+  "reference": "FAN-2117",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 125 m², con 4 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 381000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 125,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 18640,
+  "_geo": {
+   "lat": 39.475,
+   "lng": -0.3346
+  }
+ },
+ {
+  "id": 118,
+  "reference": "BRI-2118",
+  "title": "Local comercial en El Carmen",
+  "description": "Local comercial en El Carmen, de 59 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "El Carmen",
+  "price": 202000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 59,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 72946,
+  "_geo": {
+   "lat": 39.4777,
+   "lng": -0.3785
+  }
+ },
+ {
+  "id": 119,
+  "reference": "MAR-2119",
+  "title": "Ático con terraza en El Carmen",
+  "description": "Ático con terraza en El Carmen, de 78 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 396000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 78,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 31486,
+  "_geo": {
+   "lat": 39.4781,
+   "lng": -0.3774
+  }
+ },
+ {
+  "id": 120,
+  "reference": "ATA-2120",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 90 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 326000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 90,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 32736,
+  "_geo": {
+   "lat": 39.4721,
+   "lng": -0.3856
+  }
+ },
+ {
+  "id": 121,
+  "reference": "FAN-2121",
+  "title": "Casa de pueblo en Ruzafa",
+  "description": "Casa de pueblo en Ruzafa, de 206 m², con 4 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Ruzafa",
+  "price": 1075000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 206,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-11.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 42921,
+  "_geo": {
+   "lat": 39.4624,
+   "lng": -0.3715
+  }
+ },
+ {
+  "id": 122,
+  "reference": "BRI-2122",
+  "title": "Piso exterior en Extramurs",
+  "description": "Piso exterior en Extramurs, de 113 m², con 4 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 460000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 113,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 13447,
+  "_geo": {
+   "lat": 39.4724,
+   "lng": -0.3881
+  }
+ },
+ {
+  "id": 123,
+  "reference": "MAR-2123",
+  "title": "Piso de 1 dormitorios en Patraix",
+  "description": "Piso de 1 dormitorios en Patraix, de 57 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 134000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 57,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 18488,
+  "_geo": {
+   "lat": 39.4569,
+   "lng": -0.3988
+  }
+ },
+ {
+  "id": 124,
+  "reference": "ATA-2124",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 109 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 432000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 109,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 16849,
+  "_geo": {
+   "lat": 39.4803,
+   "lng": -0.3326
+  }
+ },
+ {
+  "id": 125,
+  "reference": "FAN-2125",
+  "title": "Piso reformado en Extramurs",
+  "description": "Piso reformado en Extramurs, de 91 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 1500,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 91,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-01.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 21945,
+  "_geo": {
+   "lat": 39.4724,
+   "lng": -0.3913
+  }
+ },
+ {
+  "id": 126,
+  "reference": "BRI-2126",
+  "title": "Bajo con patio en El Carmen",
+  "description": "Bajo con patio en El Carmen, de 90 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 430000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 90,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 8131,
+  "_geo": {
+   "lat": 39.4768,
+   "lng": -0.3792
+  }
+ },
+ {
+  "id": 127,
+  "reference": "MAR-2127",
+  "title": "Ático con terraza en Campanar",
+  "description": "Ático con terraza en Campanar, de 67 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 253000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 67,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 79882,
+  "_geo": {
+   "lat": 39.4777,
+   "lng": -0.4003
+  }
+ },
+ {
+  "id": 128,
+  "reference": "ATA-2128",
+  "title": "Casa de pueblo en El Carmen",
+  "description": "Casa de pueblo en El Carmen, de 161 m², con 3 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "El Carmen",
+  "price": 665000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 161,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-104.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 59244,
+  "_geo": {
+   "lat": 39.4776,
+   "lng": -0.3808
+  }
+ },
+ {
+  "id": 129,
+  "reference": "FAN-2129",
+  "title": "Piso exterior en Cabanyal",
+  "description": "Piso exterior en Cabanyal, de 91 m², con 3 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 290000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 91,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 1034,
+  "_geo": {
+   "lat": 39.4664,
+   "lng": -0.3354
+  }
+ },
+ {
+  "id": 130,
+  "reference": "BRI-2130",
+  "title": "Piso de 4 dormitorios en Campanar",
+  "description": "Piso de 4 dormitorios en Campanar, de 124 m², con 4 dormitorios y 2 baños. Tiene plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 1875,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 124,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 42775,
+  "_geo": {
+   "lat": 39.4817,
+   "lng": -0.4002
+  }
+ },
+ {
+  "id": 131,
+  "reference": "MAR-2131",
+  "title": "Piso reformado en Ruzafa",
+  "description": "Piso reformado en Ruzafa, de 68 m², con 2 dormitorios y 1 baño. Tiene terraza y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 1225,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 23636,
+  "_geo": {
+   "lat": 39.4581,
+   "lng": -0.3725
+  }
+ },
+ {
+  "id": 132,
+  "reference": "ATA-2132",
+  "title": "Piso de 3 dormitorios en El Carmen",
+  "description": "Piso de 3 dormitorios en El Carmen, de 97 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1800,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 97,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 7026,
+  "_geo": {
+   "lat": 39.4767,
+   "lng": -0.3824
+  }
+ },
+ {
+  "id": 133,
+  "reference": "FAN-2133",
+  "title": "Piso exterior en Ruzafa",
+  "description": "Piso exterior en Ruzafa, de 85 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 360000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 85,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 26194,
+  "_geo": {
+   "lat": 39.4584,
+   "lng": -0.3722
+  }
+ },
+ {
+  "id": 134,
+  "reference": "BRI-2134",
+  "title": "Piso de 2 dormitorios en Patraix",
+  "description": "Piso de 2 dormitorios en Patraix, de 70 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 158000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 70,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 65164,
+  "_geo": {
+   "lat": 39.456,
+   "lng": -0.3987
+  }
+ },
+ {
+  "id": 135,
+  "reference": "MAR-2135",
+  "title": "Piso reformado en Malvarrosa",
+  "description": "Piso reformado en Malvarrosa, de 113 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 463000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 113,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 82418,
+  "_geo": {
+   "lat": 39.4801,
+   "lng": -0.3309
+  }
+ },
+ {
+  "id": 136,
+  "reference": "ATA-2136",
+  "title": "Piso exterior en Benimaclet",
+  "description": "Piso exterior en Benimaclet, de 100 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 347000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 100,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 64909,
+  "_geo": {
+   "lat": 39.4833,
+   "lng": -0.3576
+  }
+ },
+ {
+  "id": 137,
+  "reference": "FAN-2137",
+  "title": "Piso exterior en El Carmen",
+  "description": "Piso exterior en El Carmen, de 91 m², con 3 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1375,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 91,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 60758,
+  "_geo": {
+   "lat": 39.4749,
+   "lng": -0.3784
+  }
+ },
+ {
+  "id": 138,
+  "reference": "BRI-2138",
+  "title": "Piso exterior en Patraix",
+  "description": "Piso exterior en Patraix, de 104 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 243000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 104,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 57087,
+  "_geo": {
+   "lat": 39.4571,
+   "lng": -0.399
+  }
+ },
+ {
+  "id": 139,
+  "reference": "MAR-2139",
+  "title": "Estudio en Benimaclet",
+  "description": "Estudio en Benimaclet, de 54 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 725,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 54,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-10.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 19363,
+  "_geo": {
+   "lat": 39.4852,
+   "lng": -0.3574
+  }
+ },
+ {
+  "id": 140,
+  "reference": "ATA-2140",
+  "title": "Local comercial en Ruzafa",
+  "description": "Local comercial en Ruzafa, de 212 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Ruzafa",
+  "price": 761000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 212,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 75048,
+  "_geo": {
+   "lat": 39.4641,
+   "lng": -0.376
+  }
+ },
+ {
+  "id": 141,
+  "reference": "FAN-2141",
+  "title": "Piso de 4 dormitorios en Cabanyal",
+  "description": "Piso de 4 dormitorios en Cabanyal, de 125 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 1625,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 125,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 8247,
+  "_geo": {
+   "lat": 39.4689,
+   "lng": -0.335
+  }
+ },
+ {
+  "id": 142,
+  "reference": "BRI-2142",
+  "title": "Casa con jardín en Patraix",
+  "description": "Casa con jardín en Patraix, de 184 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Patraix",
+  "price": 482000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 184,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-11.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 44118,
+  "_geo": {
+   "lat": 39.4583,
+   "lng": -0.3981
+  }
+ },
+ {
+  "id": 143,
+  "reference": "MAR-2143",
+  "title": "Piso de 1 dormitorios en Algirós",
+  "description": "Piso de 1 dormitorios en Algirós, de 58 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 160000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 58,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 75366,
+  "_geo": {
+   "lat": 39.4768,
+   "lng": -0.3512
+  }
+ },
+ {
+  "id": 144,
+  "reference": "ATA-2144",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 73 m², con 2 dormitorios y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 228000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 73,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 32315,
+  "_geo": {
+   "lat": 39.4823,
+   "lng": -0.3327
+  }
+ },
+ {
+  "id": 145,
+  "reference": "FAN-2145",
+  "title": "Oficina en Malvarrosa",
+  "description": "Oficina en Malvarrosa, de 93 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "office",
+  "zone": "Malvarrosa",
+  "price": 1150,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 93,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 27785,
+  "_geo": {
+   "lat": 39.4815,
+   "lng": -0.336
+  }
+ },
+ {
+  "id": 146,
+  "reference": "BRI-2146",
+  "title": "Casa con jardín en El Carmen",
+  "description": "Casa con jardín en El Carmen, de 193 m², con 5 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "El Carmen",
+  "price": 932000,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "area": 193,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-11.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 17077,
+  "_geo": {
+   "lat": 39.4804,
+   "lng": -0.3788
+  }
+ },
+ {
+  "id": 147,
+  "reference": "MAR-2147",
+  "title": "Piso de 2 dormitorios en Patraix",
+  "description": "Piso de 2 dormitorios en Patraix, de 91 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 1375,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 91,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 44647,
+  "_geo": {
+   "lat": 39.4611,
+   "lng": -0.3952
+  }
+ },
+ {
+  "id": 148,
+  "reference": "ATA-2148",
+  "title": "Piso de 3 dormitorios en Malvarrosa",
+  "description": "Piso de 3 dormitorios en Malvarrosa, de 95 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 375000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 95,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 3220,
+  "_geo": {
+   "lat": 39.4781,
+   "lng": -0.3325
+  }
+ },
+ {
+  "id": 149,
+  "reference": "FAN-2149",
+  "title": "Ático con terraza en El Carmen",
+  "description": "Ático con terraza en El Carmen, de 115 m², con 4 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 507000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 115,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 28827,
+  "_geo": {
+   "lat": 39.4819,
+   "lng": -0.3779
+  }
+ },
+ {
+  "id": 150,
+  "reference": "BRI-2150",
+  "title": "Piso de 3 dormitorios en Patraix",
+  "description": "Piso de 3 dormitorios en Patraix, de 104 m², con 3 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 243000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 104,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 9418,
+  "_geo": {
+   "lat": 39.4636,
+   "lng": -0.3988
+  }
+ },
+ {
+  "id": 151,
+  "reference": "MAR-2151",
+  "title": "Piso de 1 dormitorios en Ruzafa",
+  "description": "Piso de 1 dormitorios en Ruzafa, de 63 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 275000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 63,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 75548,
+  "_geo": {
+   "lat": 39.4619,
+   "lng": -0.3722
+  }
+ },
+ {
+  "id": 152,
+  "reference": "ATA-2152",
+  "title": "Piso reformado en Benicalap",
+  "description": "Piso reformado en Benicalap, de 70 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 150000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 70,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 74532,
+  "_geo": {
+   "lat": 39.4923,
+   "lng": -0.389
+  }
+ },
+ {
+  "id": 153,
+  "reference": "FAN-2153",
+  "title": "Piso de 1 dormitorios en Benimaclet",
+  "description": "Piso de 1 dormitorios en Benimaclet, de 62 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 975,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 62,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-01.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 5485,
+  "_geo": {
+   "lat": 39.4881,
+   "lng": -0.361
+  }
+ },
+ {
+  "id": 154,
+  "reference": "BRI-2154",
+  "title": "Piso exterior en El Carmen",
+  "description": "Piso exterior en El Carmen, de 70 m², con 2 dormitorios y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 294000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 70,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 47892,
+  "_geo": {
+   "lat": 39.4809,
+   "lng": -0.3822
+  }
+ },
+ {
+  "id": 155,
+  "reference": "MAR-2155",
+  "title": "Piso exterior en Benicalap",
+  "description": "Piso exterior en Benicalap, de 84 m², con 2 dormitorios y 1 baño. Tiene plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 1100,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 84,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 77436,
+  "_geo": {
+   "lat": 39.4955,
+   "lng": -0.3925
+  }
+ },
+ {
+  "id": 156,
+  "reference": "ATA-2156",
+  "title": "Piso de 2 dormitorios en El Carmen",
+  "description": "Piso de 2 dormitorios en El Carmen, de 77 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 1275,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 77,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 31509,
+  "_geo": {
+   "lat": 39.481,
+   "lng": -0.3832
+  }
+ },
+ {
+  "id": 157,
+  "reference": "FAN-2157",
+  "title": "Piso reformado en Benicalap",
+  "description": "Piso reformado en Benicalap, de 61 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 800,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 61,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 9673,
+  "_geo": {
+   "lat": 39.4974,
+   "lng": -0.3959
+  }
+ },
+ {
+  "id": 158,
+  "reference": "BRI-2158",
+  "title": "Piso exterior en El Carmen",
+  "description": "Piso exterior en El Carmen, de 88 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 465000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 88,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 51654,
+  "_geo": {
+   "lat": 39.4769,
+   "lng": -0.3797
+  }
+ },
+ {
+  "id": 159,
+  "reference": "MAR-2159",
+  "title": "Piso de 3 dormitorios en Malvarrosa",
+  "description": "Piso de 3 dormitorios en Malvarrosa, de 95 m², con 3 dormitorios y 2 baños.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 1475,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 95,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 23749,
+  "_geo": {
+   "lat": 39.4789,
+   "lng": -0.3325
+  }
+ },
+ {
+  "id": 160,
+  "reference": "ATA-2160",
+  "title": "Piso exterior en Cabanyal",
+  "description": "Piso exterior en Cabanyal, de 130 m², con 4 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 395000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 130,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-03.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 45616,
+  "_geo": {
+   "lat": 39.4726,
+   "lng": -0.3346
+  }
+ },
+ {
+  "id": 161,
+  "reference": "FAN-2161",
+  "title": "Piso reformado en El Carmen",
+  "description": "Piso reformado en El Carmen, de 136 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 2575,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 136,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 73884,
+  "_geo": {
+   "lat": 39.4779,
+   "lng": -0.3773
+  }
+ },
+ {
+  "id": 162,
+  "reference": "BRI-2162",
+  "title": "Piso de 2 dormitorios en Extramurs",
+  "description": "Piso de 2 dormitorios en Extramurs, de 74 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 311000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 74,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 20805,
+  "_geo": {
+   "lat": 39.466,
+   "lng": -0.3856
+  }
+ },
+ {
+  "id": 163,
+  "reference": "MAR-2163",
+  "title": "Piso exterior en Ruzafa",
+  "description": "Piso exterior en Ruzafa, de 65 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 290000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 65,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 21657,
+  "_geo": {
+   "lat": 39.4655,
+   "lng": -0.3763
+  }
+ },
+ {
+  "id": 164,
+  "reference": "ATA-2164",
+  "title": "Casa de pueblo en Patraix",
+  "description": "Casa de pueblo en Patraix, de 187 m², con 3 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "rent",
+  "type": "house",
+  "zone": "Patraix",
+  "price": 2150,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 187,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-11.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 24680,
+  "_geo": {
+   "lat": 39.456,
+   "lng": -0.3936
+  }
+ },
+ {
+  "id": 165,
+  "reference": "FAN-2165",
+  "title": "Piso exterior en Malvarrosa",
+  "description": "Piso exterior en Malvarrosa, de 73 m², con 2 dormitorios y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 1025,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 73,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 73515,
+  "_geo": {
+   "lat": 39.4791,
+   "lng": -0.3324
+  }
+ },
+ {
+  "id": 166,
+  "reference": "BRI-2166",
+  "title": "Piso de 4 dormitorios en Algirós",
+  "description": "Piso de 4 dormitorios en Algirós, de 112 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 1625,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 112,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 58900,
+  "_geo": {
+   "lat": 39.472,
+   "lng": -0.3564
+  }
+ },
+ {
+  "id": 167,
+  "reference": "MAR-2167",
+  "title": "Piso de 1 dormitorios en Campanar",
+  "description": "Piso de 1 dormitorios en Campanar, de 70 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 206000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 70,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 5392,
+  "_geo": {
+   "lat": 39.4815,
+   "lng": -0.3988
+  }
+ },
+ {
+  "id": 168,
+  "reference": "ATA-2168",
+  "title": "Local comercial en Campanar",
+  "description": "Local comercial en Campanar, de 81 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Campanar",
+  "price": 216000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 81,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 66695,
+  "_geo": {
+   "lat": 39.4829,
+   "lng": -0.3981
+  }
+ },
+ {
+  "id": 169,
+  "reference": "FAN-2169",
+  "title": "Ático con terraza en El Carmen",
+  "description": "Ático con terraza en El Carmen, de 80 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 468000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 80,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 53937,
+  "_geo": {
+   "lat": 39.478,
+   "lng": -0.3836
+  }
+ },
+ {
+  "id": 170,
+  "reference": "BRI-2170",
+  "title": "Piso reformado en Malvarrosa",
+  "description": "Piso reformado en Malvarrosa, de 92 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 302000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 92,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 77629,
+  "_geo": {
+   "lat": 39.4765,
+   "lng": -0.3324
+  }
+ },
+ {
+  "id": 171,
+  "reference": "MAR-2171",
+  "title": "Piso reformado en Cabanyal",
+  "description": "Piso reformado en Cabanyal, de 88 m², con 3 dormitorios y 2 baños. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 329000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 88,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-106.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 40375,
+  "_geo": {
+   "lat": 39.4702,
+   "lng": -0.3328
+  }
+ },
+ {
+  "id": 172,
+  "reference": "ATA-2172",
+  "title": "Piso exterior en Campanar",
+  "description": "Piso exterior en Campanar, de 129 m², con 4 dormitorios y 2 baños. Tiene plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 1700,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 129,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 48150,
+  "_geo": {
+   "lat": 39.4846,
+   "lng": -0.3973
+  }
+ },
+ {
+  "id": 173,
+  "reference": "FAN-2173",
+  "title": "Piso exterior en Ruzafa",
+  "description": "Piso exterior en Ruzafa, de 93 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 367000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 93,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 28304,
+  "_geo": {
+   "lat": 39.4617,
+   "lng": -0.3756
+  }
+ },
+ {
+  "id": 174,
+  "reference": "BRI-2174",
+  "title": "Local comercial en Campanar",
+  "description": "Local comercial en Campanar, de 163 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Campanar",
+  "price": 333000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 163,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 43920,
+  "_geo": {
+   "lat": 39.4822,
+   "lng": -0.3946
+  }
+ },
+ {
+  "id": 175,
+  "reference": "MAR-2175",
+  "title": "Oficina en Malvarrosa",
+  "description": "Oficina en Malvarrosa, de 197 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Malvarrosa",
+  "price": 497000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 197,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 75969,
+  "_geo": {
+   "lat": 39.4746,
+   "lng": -0.3356
+  }
+ },
+ {
+  "id": 176,
+  "reference": "ATA-2176",
+  "title": "Estudio en Malvarrosa",
+  "description": "Estudio en Malvarrosa, de 48 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 160000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 48,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-10.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 51497,
+  "_geo": {
+   "lat": 39.4796,
+   "lng": -0.3357
+  }
+ },
+ {
+  "id": 177,
+  "reference": "FAN-2177",
+  "title": "Local comercial en Ruzafa",
+  "description": "Local comercial en Ruzafa, de 42 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Ruzafa",
+  "price": 525,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 42,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 27735,
+  "_geo": {
+   "lat": 39.4644,
+   "lng": -0.3763
+  }
+ },
+ {
+  "id": 178,
+  "reference": "BRI-2178",
+  "title": "Piso de 4 dormitorios en Benimaclet",
+  "description": "Piso de 4 dormitorios en Benimaclet, de 125 m², con 4 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 333000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 125,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 65626,
+  "_geo": {
+   "lat": 39.4862,
+   "lng": -0.3608
+  }
+ },
+ {
+  "id": 179,
+  "reference": "MAR-2179",
+  "title": "Piso exterior en Cabanyal",
+  "description": "Piso exterior en Cabanyal, de 114 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 345000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 114,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 27391,
+  "_geo": {
+   "lat": 39.4687,
+   "lng": -0.3298
+  }
+ },
+ {
+  "id": 180,
+  "reference": "ATA-2180",
+  "title": "Piso reformado en Benimaclet",
+  "description": "Piso reformado en Benimaclet, de 76 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 236000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 76,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 55657,
+  "_geo": {
+   "lat": 39.4842,
+   "lng": -0.3588
+  }
+ },
+ {
+  "id": 181,
+  "reference": "FAN-2181",
+  "title": "Oficina luminosa en Campanar",
+  "description": "Oficina luminosa en Campanar, de 203 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Campanar",
+  "price": 443000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 203,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 47886,
+  "_geo": {
+   "lat": 39.4788,
+   "lng": -0.3956
+  }
+ },
+ {
+  "id": 182,
+  "reference": "BRI-2182",
+  "title": "Piso exterior en Benicalap",
+  "description": "Piso exterior en Benicalap, de 81 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 209000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 81,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 64257,
+  "_geo": {
+   "lat": 39.4964,
+   "lng": -0.3942
+  }
+ },
+ {
+  "id": 183,
+  "reference": "MAR-2183",
+  "title": "Piso de 2 dormitorios en Benimaclet",
+  "description": "Piso de 2 dormitorios en Benimaclet, de 67 m², con 2 dormitorios y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 1050,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 67,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 27088,
+  "_geo": {
+   "lat": 39.4833,
+   "lng": -0.3567
+  }
+ },
+ {
+  "id": 184,
+  "reference": "ATA-2184",
+  "title": "Piso exterior en Patraix",
+  "description": "Piso exterior en Patraix, de 105 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 259000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 105,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 35620,
+  "_geo": {
+   "lat": 39.456,
+   "lng": -0.3951
+  }
+ },
+ {
+  "id": 185,
+  "reference": "FAN-2185",
+  "title": "Piso de 4 dormitorios en Ruzafa",
+  "description": "Piso de 4 dormitorios en Ruzafa, de 121 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 1875,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 121,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-01.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 611,
+  "_geo": {
+   "lat": 39.4653,
+   "lng": -0.3773
+  }
+ },
+ {
+  "id": 186,
+  "reference": "BRI-2186",
+  "title": "Piso reformado en Extramurs",
+  "description": "Piso reformado en Extramurs, de 134 m², con 4 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 449000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 134,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 17515,
+  "_geo": {
+   "lat": 39.4686,
+   "lng": -0.3874
+  }
+ },
+ {
+  "id": 187,
+  "reference": "MAR-2187",
+  "title": "Ático con terraza en Ruzafa",
+  "description": "Ático con terraza en Ruzafa, de 101 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 1800,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 101,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 67007,
+  "_geo": {
+   "lat": 39.4621,
+   "lng": -0.3747
+  }
+ },
+ {
+  "id": 188,
+  "reference": "ATA-2188",
+  "title": "Piso de 3 dormitorios en Malvarrosa",
+  "description": "Piso de 3 dormitorios en Malvarrosa, de 100 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 366000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 100,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 22062,
+  "_geo": {
+   "lat": 39.4775,
+   "lng": -0.3343
+  }
+ },
+ {
+  "id": 189,
+  "reference": "FAN-2189",
+  "title": "Oficina en Malvarrosa",
+  "description": "Oficina en Malvarrosa, de 171 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Malvarrosa",
+  "price": 487000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 171,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 32034,
+  "_geo": {
+   "lat": 39.4817,
+   "lng": -0.3344
+  }
+ },
+ {
+  "id": 190,
+  "reference": "BRI-2190",
+  "title": "Bajo con patio en El Carmen",
+  "description": "Bajo con patio en El Carmen, de 93 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 384000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 93,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 78226,
+  "_geo": {
+   "lat": 39.4755,
+   "lng": -0.3778
+  }
+ },
+ {
+  "id": 191,
+  "reference": "MAR-2191",
+  "title": "Local a pie de calle en Campanar",
+  "description": "Local a pie de calle en Campanar, de 59 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Campanar",
+  "price": 550,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 59,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 36713,
+  "_geo": {
+   "lat": 39.4828,
+   "lng": -0.3971
+  }
+ },
+ {
+  "id": 192,
+  "reference": "ATA-2192",
+  "title": "Piso reformado en Benimaclet",
+  "description": "Piso reformado en Benimaclet, de 111 m², con 3 dormitorios y 2 baños.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 1575,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 111,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 39170,
+  "_geo": {
+   "lat": 39.4895,
+   "lng": -0.361
+  }
+ },
+ {
+  "id": 193,
+  "reference": "FAN-2193",
+  "title": "Bajo con patio en Campanar",
+  "description": "Bajo con patio en Campanar, de 113 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 363000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 113,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-110.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 15883,
+  "_geo": {
+   "lat": 39.4822,
+   "lng": -0.3973
+  }
+ },
+ {
+  "id": 194,
+  "reference": "BRI-2194",
+  "title": "Oficina en Benimaclet",
+  "description": "Oficina en Benimaclet, de 255 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "office",
+  "zone": "Benimaclet",
+  "price": 2450,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 255,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 45091,
+  "_geo": {
+   "lat": 39.4831,
+   "lng": -0.3566
+  }
+ },
+ {
+  "id": 195,
+  "reference": "MAR-2195",
+  "title": "Ático con terraza en Malvarrosa",
+  "description": "Ático con terraza en Malvarrosa, de 68 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 285000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 54893,
+  "_geo": {
+   "lat": 39.4752,
+   "lng": -0.3346
+  }
+ },
+ {
+  "id": 196,
+  "reference": "ATA-2196",
+  "title": "Piso reformado en Ruzafa",
+  "description": "Piso reformado en Ruzafa, de 94 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 367000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 94,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-103.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 56684,
+  "_geo": {
+   "lat": 39.4643,
+   "lng": -0.3706
+  }
+ },
+ {
+  "id": 197,
+  "reference": "FAN-2197",
+  "title": "Local comercial en Ruzafa",
+  "description": "Local comercial en Ruzafa, de 157 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "commercial",
+  "zone": "Ruzafa",
+  "price": 549000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 157,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 51930,
+  "_geo": {
+   "lat": 39.4639,
+   "lng": -0.3734
+  }
+ },
+ {
+  "id": 198,
+  "reference": "BRI-2198",
+  "title": "Piso reformado en Benimaclet",
+  "description": "Piso reformado en Benimaclet, de 110 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 349000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 110,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 71988,
+  "_geo": {
+   "lat": 39.4863,
+   "lng": -0.3607
+  }
+ },
+ {
+  "id": 199,
+  "reference": "MAR-2199",
+  "title": "Local a pie de calle en El Carmen",
+  "description": "Local a pie de calle en El Carmen, de 149 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "El Carmen",
+  "price": 1900,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 149,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-08.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 13103,
+  "_geo": {
+   "lat": 39.4803,
+   "lng": -0.3809
+  }
+ },
+ {
+  "id": 200,
+  "reference": "ATA-2200",
+  "title": "Ático con terraza en Extramurs",
+  "description": "Ático con terraza en Extramurs, de 89 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 412000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 89,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 24776,
+  "_geo": {
+   "lat": 39.4655,
+   "lng": -0.3875
+  }
+ },
+ {
+  "id": 201,
+  "reference": "FAN-2201",
+  "title": "Ático con terraza en Extramurs",
+  "description": "Ático con terraza en Extramurs, de 99 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 393000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 99,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 1995,
+  "_geo": {
+   "lat": 39.4726,
+   "lng": -0.3856
+  }
+ },
+ {
+  "id": 202,
+  "reference": "BRI-2202",
+  "title": "Piso exterior en Campanar",
+  "description": "Piso exterior en Campanar, de 107 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 431000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 107,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 14753,
+  "_geo": {
+   "lat": 39.4802,
+   "lng": -0.3958
+  }
+ },
+ {
+  "id": 203,
+  "reference": "MAR-2203",
+  "title": "Oficina en Benimaclet",
+  "description": "Oficina en Benimaclet, de 87 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Benimaclet",
+  "price": 170000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 87,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 82622,
+  "_geo": {
+   "lat": 39.484,
+   "lng": -0.3607
+  }
+ },
+ {
+  "id": 204,
+  "reference": "ATA-2204",
+  "title": "Piso de 2 dormitorios en El Carmen",
+  "description": "Piso de 2 dormitorios en El Carmen, de 84 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 368000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 84,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 46628,
+  "_geo": {
+   "lat": 39.4759,
+   "lng": -0.3782
+  }
+ },
+ {
+  "id": 205,
+  "reference": "FAN-2205",
+  "title": "Piso reformado en Extramurs",
+  "description": "Piso reformado en Extramurs, de 67 m², con 1 dormitorio y 1 baño. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 925,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 67,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-01.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 75729,
+  "_geo": {
+   "lat": 39.4729,
+   "lng": -0.3876
+  }
+ },
+ {
+  "id": 206,
+  "reference": "BRI-2206",
+  "title": "Oficina en Ruzafa",
+  "description": "Oficina en Ruzafa, de 66 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Ruzafa",
+  "price": 216000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 66,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 47775,
+  "_geo": {
+   "lat": 39.4625,
+   "lng": -0.3744
+  }
+ },
+ {
+  "id": 207,
+  "reference": "MAR-2207",
+  "title": "Casa con jardín en El Carmen",
+  "description": "Casa con jardín en El Carmen, de 221 m², con 5 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "El Carmen",
+  "price": 934000,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "area": 221,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-104.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 13328,
+  "_geo": {
+   "lat": 39.48,
+   "lng": -0.3814
+  }
+ },
+ {
+  "id": 208,
+  "reference": "ATA-2208",
+  "title": "Piso de 2 dormitorios en Patraix",
+  "description": "Piso de 2 dormitorios en Patraix, de 86 m², con 2 dormitorios y 1 baño. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 241000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 86,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 50900,
+  "_geo": {
+   "lat": 39.4618,
+   "lng": -0.3958
+  }
+ },
+ {
+  "id": 209,
+  "reference": "FAN-2209",
+  "title": "Ático con terraza en Benimaclet",
+  "description": "Ático con terraza en Benimaclet, de 110 m², con 3 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 1550,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 110,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 28999,
+  "_geo": {
+   "lat": 39.4889,
+   "lng": -0.357
+  }
+ },
+ {
+  "id": 210,
+  "reference": "BRI-2210",
+  "title": "Piso exterior en Algirós",
+  "description": "Piso exterior en Algirós, de 89 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 323000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 89,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-12.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 24510,
+  "_geo": {
+   "lat": 39.4726,
+   "lng": -0.3556
+  }
+ },
+ {
+  "id": 211,
+  "reference": "MAR-2211",
+  "title": "Piso de 3 dormitorios en Extramurs",
+  "description": "Piso de 3 dormitorios en Extramurs, de 89 m², con 3 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 318000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 89,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 65086,
+  "_geo": {
+   "lat": 39.4658,
+   "lng": -0.3863
+  }
+ },
+ {
+  "id": 212,
+  "reference": "ATA-2212",
+  "title": "Estudio en El Carmen",
+  "description": "Estudio en El Carmen, de 47 m², con 1 dormitorio y 1 baño. Tiene plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "El Carmen",
+  "price": 228000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 47,
+  "terrace": false,
+  "elevator": false,
+  "parking": true,
+  "photo": "at-105.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 42946,
+  "_geo": {
+   "lat": 39.4767,
+   "lng": -0.3823
+  }
+ },
+ {
+  "id": 213,
+  "reference": "FAN-2213",
+  "title": "Casa de pueblo en Patraix",
+  "description": "Casa de pueblo en Patraix, de 162 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "rent",
+  "type": "house",
+  "zone": "Patraix",
+  "price": 2225,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 162,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-104.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 263,
+  "_geo": {
+   "lat": 39.4568,
+   "lng": -0.3982
+  }
+ },
+ {
+  "id": 214,
+  "reference": "BRI-2214",
+  "title": "Piso de 2 dormitorios en Cabanyal",
+  "description": "Piso de 2 dormitorios en Cabanyal, de 73 m², con 2 dormitorios y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 256000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 73,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 34304,
+  "_geo": {
+   "lat": 39.4687,
+   "lng": -0.3359
+  }
+ },
+ {
+  "id": 215,
+  "reference": "MAR-2215",
+  "title": "Casa de pueblo en Cabanyal",
+  "description": "Casa de pueblo en Cabanyal, de 158 m², con 3 dormitorios y 2 baños. Tiene terraza.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Cabanyal",
+  "price": 561000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 158,
+  "terrace": true,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-05.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 16611,
+  "_geo": {
+   "lat": 39.4688,
+   "lng": -0.3302
+  }
+ },
+ {
+  "id": 216,
+  "reference": "ATA-2216",
+  "title": "Piso reformado en Benimaclet",
+  "description": "Piso reformado en Benimaclet, de 113 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 322000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 113,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 39437,
+  "_geo": {
+   "lat": 39.4867,
+   "lng": -0.3599
+  }
+ },
+ {
+  "id": 217,
+  "reference": "FAN-2217",
+  "title": "Estudio en Algirós",
+  "description": "Estudio en Algirós, de 54 m², con 1 dormitorio y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 150000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 54,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-10.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 34036,
+  "_geo": {
+   "lat": 39.4756,
+   "lng": -0.3543
+  }
+ },
+ {
+  "id": 218,
+  "reference": "BRI-2218",
+  "title": "Piso de 3 dormitorios en Ruzafa",
+  "description": "Piso de 3 dormitorios en Ruzafa, de 102 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 1625,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 102,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 5610,
+  "_geo": {
+   "lat": 39.4587,
+   "lng": -0.3728
+  }
+ },
+ {
+  "id": 219,
+  "reference": "MAR-2219",
+  "title": "Ático con terraza en Campanar",
+  "description": "Ático con terraza en Campanar, de 75 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 256000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 75,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 5917,
+  "_geo": {
+   "lat": 39.482,
+   "lng": -0.3959
+  }
+ },
+ {
+  "id": 220,
+  "reference": "ATA-2220",
+  "title": "Piso reformado en Malvarrosa",
+  "description": "Piso reformado en Malvarrosa, de 118 m², con 4 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 364000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 118,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 79491,
+  "_geo": {
+   "lat": 39.4783,
+   "lng": -0.3349
+  }
+ },
+ {
+  "id": 221,
+  "reference": "FAN-2221",
+  "title": "Ático con terraza en Patraix",
+  "description": "Ático con terraza en Patraix, de 64 m², con 1 dormitorio y 1 baño. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 725,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 64,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 39953,
+  "_geo": {
+   "lat": 39.4611,
+   "lng": -0.3939
+  }
+ },
+ {
+  "id": 222,
+  "reference": "BRI-2222",
+  "title": "Oficina luminosa en Cabanyal",
+  "description": "Oficina luminosa en Cabanyal, de 197 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Cabanyal",
+  "price": 536000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 197,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 49935,
+  "_geo": {
+   "lat": 39.4696,
+   "lng": -0.3296
+  }
+ },
+ {
+  "id": 223,
+  "reference": "MAR-2223",
+  "title": "Oficina en Patraix",
+  "description": "Oficina en Patraix, de 119 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Patraix",
+  "price": 248000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 119,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-109.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 55205,
+  "_geo": {
+   "lat": 39.4609,
+   "lng": -0.3987
+  }
+ },
+ {
+  "id": 224,
+  "reference": "ATA-2224",
+  "title": "Estudio en Extramurs",
+  "description": "Estudio en Extramurs, de 48 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Extramurs",
+  "price": 157000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 48,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-10.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 77380,
+  "_geo": {
+   "lat": 39.4722,
+   "lng": -0.3881
+  }
+ },
+ {
+  "id": 225,
+  "reference": "FAN-2225",
+  "title": "Piso de 2 dormitorios en Benicalap",
+  "description": "Piso de 2 dormitorios en Benicalap, de 68 m², con 2 dormitorios y 1 baño. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 850,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 5674,
+  "_geo": {
+   "lat": 39.4979,
+   "lng": -0.3893
+  }
+ },
+ {
+  "id": 226,
+  "reference": "BRI-2226",
+  "title": "Piso de 1 dormitorios en Malvarrosa",
+  "description": "Piso de 1 dormitorios en Malvarrosa, de 64 m², con 1 dormitorio y 1 baño.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 975,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 64,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 15513,
+  "_geo": {
+   "lat": 39.4816,
+   "lng": -0.3329
+  }
+ },
+ {
+  "id": 227,
+  "reference": "MAR-2227",
+  "title": "Ático con terraza en Benicalap",
+  "description": "Ático con terraza en Benicalap, de 91 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benicalap",
+  "price": 1025,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 91,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "p-02.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 26470,
+  "_geo": {
+   "lat": 39.4986,
+   "lng": -0.3894
+  }
+ },
+ {
+  "id": 228,
+  "reference": "ATA-2228",
+  "title": "Piso de 2 dormitorios en Benimaclet",
+  "description": "Piso de 2 dormitorios en Benimaclet, de 76 m², con 2 dormitorios y 1 baño.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Benimaclet",
+  "price": 875,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 76,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-06.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 61024,
+  "_geo": {
+   "lat": 39.4832,
+   "lng": -0.3612
+  }
+ },
+ {
+  "id": 229,
+  "reference": "FAN-2229",
+  "title": "Ático con terraza en Malvarrosa",
+  "description": "Ático con terraza en Malvarrosa, de 123 m², con 4 dormitorios y 2 baños. Tiene ascensor y terraza.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 2000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 123,
+  "terrace": true,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-102.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 61180,
+  "_geo": {
+   "lat": 39.4761,
+   "lng": -0.3365
+  }
+ },
+ {
+  "id": 230,
+  "reference": "BRI-2230",
+  "title": "Piso de 2 dormitorios en Campanar",
+  "description": "Piso de 2 dormitorios en Campanar, de 68 m², con 2 dormitorios y 1 baño. Tiene ascensor, terraza y plaza de garaje.",
+  "operation": "rent",
+  "type": "flat",
+  "zone": "Campanar",
+  "price": 1150,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 68,
+  "terrace": true,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-101.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 69089,
+  "_geo": {
+   "lat": 39.4819,
+   "lng": -0.394
+  }
+ },
+ {
+  "id": 231,
+  "reference": "MAR-2231",
+  "title": "Estudio en Patraix",
+  "description": "Estudio en Patraix, de 52 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 152000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 52,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-10.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 3471,
+  "_geo": {
+   "lat": 39.4596,
+   "lng": -0.3987
+  }
+ },
+ {
+  "id": 232,
+  "reference": "ATA-2232",
+  "title": "Piso reformado en Cabanyal",
+  "description": "Piso reformado en Cabanyal, de 100 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Cabanyal",
+  "price": 277000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 100,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "at-108-dormitorio.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 21481,
+  "_geo": {
+   "lat": 39.4652,
+   "lng": -0.3327
+  }
+ },
+ {
+  "id": 233,
+  "reference": "FAN-2233",
+  "title": "Oficina luminosa en Malvarrosa",
+  "description": "Oficina luminosa en Malvarrosa, de 127 m², con baño y buena luz natural.",
+  "operation": "sale",
+  "type": "office",
+  "zone": "Malvarrosa",
+  "price": 299000,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 127,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-09.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 61566,
+  "_geo": {
+   "lat": 39.4746,
+   "lng": -0.3363
+  }
+ },
+ {
+  "id": 234,
+  "reference": "BRI-2234",
+  "title": "Estudio en Patraix",
+  "description": "Estudio en Patraix, de 52 m², con 1 dormitorio y 1 baño.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Patraix",
+  "price": 135000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 52,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-105.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 203,
+  "_geo": {
+   "lat": 39.4618,
+   "lng": -0.3965
+  }
+ },
+ {
+  "id": 235,
+  "reference": "MAR-2235",
+  "title": "Piso reformado en Malvarrosa",
+  "description": "Piso reformado en Malvarrosa, de 115 m², con 4 dormitorios y 2 baños.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Malvarrosa",
+  "price": 448000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 115,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 28266,
+  "_geo": {
+   "lat": 39.4758,
+   "lng": -0.3306
+  }
+ },
+ {
+  "id": 236,
+  "reference": "ATA-2236",
+  "title": "Piso de 1 dormitorios en Algirós",
+  "description": "Piso de 1 dormitorios en Algirós, de 64 m², con 1 dormitorio y 1 baño. Tiene ascensor y plaza de garaje.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 185000,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 64,
+  "terrace": false,
+  "elevator": true,
+  "parking": true,
+  "photo": "at-108-cocina.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 46370,
+  "_geo": {
+   "lat": 39.4719,
+   "lng": -0.3518
+  }
+ },
+ {
+  "id": 237,
+  "reference": "FAN-2237",
+  "title": "Piso reformado en Algirós",
+  "description": "Piso reformado en Algirós, de 70 m², con 2 dormitorios y 1 baño. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Algirós",
+  "price": 241000,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 70,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-04.jpg",
+  "agency": {
+   "name": "Inmobiliaria Fanal",
+   "phone": "600 000 202",
+   "email": "info@fanal.example"
+  },
+  "minutesAgo": 3880,
+  "_geo": {
+   "lat": 39.4717,
+   "lng": -0.354
+  }
+ },
+ {
+  "id": 238,
+  "reference": "BRI-2238",
+  "title": "Piso de 3 dormitorios en Ruzafa",
+  "description": "Piso de 3 dormitorios en Ruzafa, de 104 m², con 3 dormitorios y 2 baños. Tiene ascensor.",
+  "operation": "sale",
+  "type": "flat",
+  "zone": "Ruzafa",
+  "price": 427000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 104,
+  "terrace": false,
+  "elevator": true,
+  "parking": false,
+  "photo": "p-07.jpg",
+  "agency": {
+   "name": "Brisa Pisos",
+   "phone": "600 000 303",
+   "email": "contacto@brisa.example"
+  },
+  "minutesAgo": 60727,
+  "_geo": {
+   "lat": 39.4632,
+   "lng": -0.3769
+  }
+ },
+ {
+  "id": 239,
+  "reference": "MAR-2239",
+  "title": "Local a pie de calle en Ruzafa",
+  "description": "Local a pie de calle en Ruzafa, de 82 m², con baño y buena luz natural.",
+  "operation": "rent",
+  "type": "commercial",
+  "zone": "Ruzafa",
+  "price": 1175,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "area": 82,
+  "terrace": false,
+  "elevator": false,
+  "parking": false,
+  "photo": "at-107.jpg",
+  "agency": {
+   "name": "Finques Marjal",
+   "phone": "600 000 404",
+   "email": "oficina@marjal.example"
+  },
+  "minutesAgo": 21650,
+  "_geo": {
+   "lat": 39.4638,
+   "lng": -0.3761
+  }
+ },
+ {
+  "id": 240,
+  "reference": "ATA-2240",
+  "title": "Casa de pueblo en Benicalap",
+  "description": "Casa de pueblo en Benicalap, de 208 m², con 4 dormitorios y 2 baños. Tiene terraza y plaza de garaje.",
+  "operation": "sale",
+  "type": "house",
+  "zone": "Benicalap",
+  "price": 605000,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "area": 208,
+  "terrace": true,
+  "elevator": false,
+  "parking": true,
+  "photo": "p-11.jpg",
+  "agency": {
+   "name": "Atalaya Inmobiliaria",
+   "phone": "600 000 101",
+   "email": "hola@atalaya.example"
+  },
+  "minutesAgo": 31446,
+  "_geo": {
+   "lat": 39.4965,
+   "lng": -0.3912
+  }
+ }
+]
